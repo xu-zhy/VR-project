@@ -1,3 +1,7 @@
+# Guide
+
+- model: data\output\point_cloud\iteration_30000\point_cloud.ply
+
 # Links
 
 - 3dgs: https://github.com/graphdeco-inria/gaussian-splatting
